@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  flex-wrap: 1;
+  align-items: center;
+  justify-content: center;
+  background-color: aliceblue;
+}
+ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: initial;
+}
+hr {
+  color: brown;
+}
